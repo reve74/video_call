@@ -43,5 +43,9 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>MicrophoneUsageDescription</key>
+	<string>마이크 사용을 허가해주세요.</string>
+	<key>CameraUsageDescription</key>
+	<string>카메라 사용을 허가해주세요.</string>
 </dict>
 </plist>
